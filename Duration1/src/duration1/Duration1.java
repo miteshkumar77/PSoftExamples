@@ -46,6 +46,8 @@ public class Duration1 {
 	Does not Implement value equality for Objects,
 	therefore it does not Implement value equality. 
 */
+
+// PROGRAM OUTPUT: 
 // Duration.equals
 // true
 
