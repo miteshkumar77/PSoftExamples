@@ -59,3 +59,25 @@ public class Duration5 {
 	}	
 
 }
+
+// Reflexive, Symmetric, but NOT Transitive. 
+
+
+// reflexive
+// NanoDuration.equals
+// Duration.equals
+// true
+
+// symmetric
+// NanoDuration.equals
+// Duration.equals
+// true
+// Duration.equals
+// true
+
+// transitive
+// Duration.equals
+// true
+// NanoDuration.equals
+// Duration.equals
+// false
