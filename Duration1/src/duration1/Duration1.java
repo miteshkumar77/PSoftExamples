@@ -40,3 +40,28 @@ public class Duration1 {
 	}
 
 }
+
+/**
+	Duration without nano-second
+	Does not Implement value equality for Objects,
+	therefore it does not Implement value equality. 
+*/
+// Duration.equals
+// true
+
+// Reflexive
+// Duration.equals
+// true
+
+// Symmetric
+// Duration.equals
+// true
+
+// Transitive
+// Duration.equals
+// true
+// Duration.equals
+// true
+
+// Objects
+// false
