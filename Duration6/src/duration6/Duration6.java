@@ -34,3 +34,7 @@ public class Duration6 {
 	}
 
 }
+
+// PROGRAM OUTPUT: 
+// Duration.equals(Object)
+// true
