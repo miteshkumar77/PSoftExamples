@@ -45,3 +45,11 @@ public class Duration4 {
 		System.out.println(d2.equals(d1));
 	}	
 }
+
+// NOT TRANSITIVE
+// PROGRAM OUTPUT: 
+
+// NanoDuration.equals
+// false
+// Duration.equals
+// true
