@@ -43,3 +43,25 @@ public class Duration2 {
 		System.out.println(d1.equals(d3) + "\n");
 	}
 }
+
+// Does not include nanosecond yet. 
+// Implements equals to javadoc spec. 
+
+
+// PROGRAM OUTPUT: 
+// Duration.equals(Object)
+// true
+
+// Reflexive
+// Duration.equals(Object)
+// true
+
+// Symmetric
+// Duration.equals(Object)
+// true
+
+// Transitive
+// Duration.equals(Object)
+// true
+// Duration.equals(Object)
+// true
